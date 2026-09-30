@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+matplotlib
+seaborn
+thefuzz
+python-Levenshtein

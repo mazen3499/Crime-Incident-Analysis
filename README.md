@@ -189,7 +189,7 @@ jupyter notebook Crime_Data_after_cleaning.ipynb
 
 This project is licensed under the [MIT License](LICENSE) — feel free to fork, adapt, and build on it.
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 Built as part of a hands-on data analytics training project, applying a complete real-world pipeline — from raw, messy data to a decision-ready interactive product.
 
@@ -197,6 +197,6 @@ Built as part of a hands-on data analytics training project, applying a complete
 
 <div align="center">
 
-**If this project was useful or interesting, consider giving it a ⭐ — it helps a lot!**
+**If this project was useful or interesting, consider giving it a  — it helps a lot!**
 
 </div>

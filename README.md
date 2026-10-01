@@ -144,7 +144,7 @@ crime-incident-command-center/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/crime-incident-command-center.git
+git clone https://github.com/mazen3499/crime-incident-command-center.git
 cd crime-incident-command-center
 
 # 2. (Recommended) Create a virtual environment
